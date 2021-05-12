@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/docente.h
+stdbool.h
+-
+
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/studente.c
+studente.h
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/studente.h
+
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/studente.h
+docente.h
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/docente.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+string.h
+-
+

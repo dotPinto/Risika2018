@@ -1,0 +1,3 @@
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/cmake-build-debug/CMakeFiles/FP_Base.dir
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ricca/Desktop/Progetto/FP.pintore.riccardo.65675/FP_Base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
